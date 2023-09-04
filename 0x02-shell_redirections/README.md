@@ -1,1 +1,1 @@
-0x02-shell_redirections
+this is my readme for this project
